@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="wni">WNI</string>
+    <string name="wna">WNA</string>
+    <string name="writing">Writing</string>
+    <string name="design_creative">Design Creative</string>
+    <string name="ai_service">AI Service</string>
+    <string name="development_and_it">Development and IT</string>
+    <string name="finance_7_acounting">Finance 7 Acounting</string>
+    <string name="alamat">alamat</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="tempat_lahir">tempat lahir</string>
+    <string name="usia">Usia</string>
+    <string name="jan_1_2024">Jan 1 2024</string>
+    <string name="select_date">Select Date</string>
+    <string name="enter_your_nik">Enter Your NIK</string>
+</resources>
